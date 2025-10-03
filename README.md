@@ -14,7 +14,7 @@ Full-Stack Developer with expertise in **React, Node.js, Express, MongoDB, and M
 
 - 💻 Specializing in **MERN Stack Development**
 - 🔍 Focused on building **scalable web applications**
-- 🌱 Currently learning **Advanced React Patterns & System Design**
+- 🌱 Currently learning **Backend development and AI**
 - 🤝 Open to **collaboration** on innovative projects
 - 📍 Based in **India**
 
@@ -24,8 +24,8 @@ Full-Stack Developer with expertise in **React, Node.js, Express, MongoDB, and M
 
 **Frontend Development**
 - Languages: HTML5, CSS3, JavaScript (ES6+), TypeScript
-- Frameworks/Libraries: React.js, Tailwind CSS, Bootstrap
-- Tools: Vite, Webpack
+- Frameworks/Libraries: React.js, Tailwind CSS
+- Tools: Vite
 
 **Backend Development**
 - Runtime: Node.js
@@ -40,8 +40,8 @@ Full-Stack Developer with expertise in **React, Node.js, Express, MongoDB, and M
 **Tools & Technologies**
 - Version Control: Git, GitHub
 - Development: VS Code, Postman
-- Authentication: Firebase Auth, JWT
-- Deployment: Vercel, Netlify, Render
+- Authentication: Firebase Auth
+- Deployment: Vercel, Netlify
 
 ---
 
@@ -50,7 +50,7 @@ Full-Stack Developer with expertise in **React, Node.js, Express, MongoDB, and M
 ### [AI Dream Visualizer](https://github.com/anzirish/AI-Dream-Visualizzer)
 Transforms user-input dreams into AI-generated stories and images using OpenRouter.ai API and Stable Diffusion.
 
-**Tech Stack:** React, TypeScript, Firebase (Auth & Firestore), OpenRouter.ai API, Stable Diffusion  
+**Tech Stack:** React, TypeScript, Firebase (Auth & Firestore), Tailwind CSS, OpenRouter.ai API, Stable Diffusion  
 **Key Features:**
 - AI-powered story generation from dream descriptions
 - Image generation using Stable Diffusion
@@ -64,7 +64,7 @@ Transforms user-input dreams into AI-generated stories and images using OpenRout
 ### [Travel Itinerary Planner](https://github.com/anzirish/Travel-Itinerary-Planner)
 Full-stack application for managing trips, itineraries, and destinations with real-time weather integration.
 
-**Tech Stack:** MongoDB, Express.js, React, Node.js, Weather API  
+**Tech Stack:** Typescript, React, Firebase, Tailwind CSS, Map API, Weather API  
 **Key Features:**
 - Comprehensive trip planning and management
 - Real-time weather data integration
@@ -72,6 +72,22 @@ Full-stack application for managing trips, itineraries, and destinations with re
 - Destination discovery and recommendations
 
 [View Project →](https://github.com/anzirish/Travel-Itinerary-Planner) | [Live Demo →](#)
+
+---
+
+### [Finance Management Dashboard](https://github.com/anzirish/Finance-Management)
+A lightweight, privacy-focused personal finance dashboard for managing income, expenses, budgets, savings, and bills.
+
+**Tech Stack:** HTML5, CSS3, JavaScript, Chart.js, Responsive design
+**Key Features:**
+- Complete income and expense tracking
+- Budget management with visual indicators
+- Savings goals and progress tracking
+- Bill reminders and payment tracking
+- Local storage for secure, privacy-focused data
+- Responsive design with Chart.js visualizations
+
+[View Project →](https://github.com/anzirish/Finance-Management) | [Live Demo →](#)
 
 ---
 
@@ -101,5 +117,5 @@ I'm always interested in discussing new projects, creative ideas, or opportuniti
 ---
 
 <div align="center">
-  <i>Open to opportunities and collaborations</i>
+  ✨ *"Code is like humor. When you have to explain it, it’s bad."* ✨
 </div>
