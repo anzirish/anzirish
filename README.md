@@ -87,7 +87,7 @@ A lightweight, privacy-focused personal finance dashboard for managing income, e
 - Local storage for secure, privacy-focused data
 - Responsive design with Chart.js visualizations
 
-[View Project →](https://github.com/anzirish/Finance-Management) | [Live Demo →](#)
+[View Project →](https://github.com/anzirish/Finance-Management) | [Live Demo →](https://finance-management-dashboard.netlify.app/)
 
 ---
 
