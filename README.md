@@ -112,7 +112,7 @@ I'm always interested in discussing new projects, creative ideas, or opportuniti
 - **Email:** [anzirish@gmail.com](mailto:anzirish@gmail.com)
 - **LinkedIn:** [linkedin.com/in/vipin-dev](https://www.linkedin.com/in/vipin-dev/)
 - **GitHub:** [github.com/anzirish](https://github.com/anzirish)
-- **Portfolio:** *(Coming Soon)*
+- **Portfolio:** [highlights](https://highlights-rlhc.vercel.app/)
 
 ---
 
