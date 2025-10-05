@@ -57,7 +57,7 @@ Transforms user-input dreams into AI-generated stories and images using OpenRout
 - User authentication and dream storage
 - Real-time dream sharing and discovery feed
 
-[View Project →](https://github.com/anzirish/AI-Dream-Visualizzer) | [Live Demo →](#)
+[View Project →](https://github.com/anzirish/AI-Dream-Visualizzer) | [Live Demo →](https://ai-dream-visualizzer.vercel.app/)
 
 ---
 
@@ -71,7 +71,7 @@ Full-stack application for managing trips, itineraries, and destinations with re
 - Collaboration features for shared trips
 - Destination discovery and recommendations
 
-[View Project →](https://github.com/anzirish/Travel-Itinerary-Planner) | [Live Demo →](#)
+[View Project →](https://github.com/anzirish/Travel-Itinerary-Planner) | [Live Demo →](https://travel-itinerary-planner-duwh.vercel.app/)
 
 ---
 
