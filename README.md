@@ -89,30 +89,7 @@ A lightweight, privacy-focused personal finance dashboard for managing income, e
 
 [View Project →](https://github.com/anzirish/Finance-Management) | [Live Demo →](https://finance-management-dashboard.netlify.app/)
 
----
 
-## GitHub Statistics
-
-<div align="left">
-  
-![Vipin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anzirish&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anzirish&layout=compact&theme=default&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anzirish&theme=default&hide_border=true)
-
-</div>
-
----
-
-## Contact
-
-I'm always interested in discussing new projects, creative ideas, or opportunities to contribute to innovative solutions.
-
-- **Email:** [anzirish@gmail.com](mailto:anzirish@gmail.com)
-- **LinkedIn:** [linkedin.com/in/vipin-dev](https://www.linkedin.com/in/vipin-dev/)
-- **GitHub:** [github.com/anzirish](https://github.com/anzirish)
-- **Portfolio:** [highlights](https://highlights-rlhc.vercel.app/)
 
 ---
 
