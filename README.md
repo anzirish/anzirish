@@ -10,7 +10,7 @@
 
 ## About Me
 
-Full-Stack Developer with expertise in **React, Node.js, Express, MongoDB, and MySQL**. Passionate about solving real-world problems with clean, efficient code. Always learning and exploring new web technologies while maintaining a team-oriented and collaborative approach.
+Full-Stack Developer with expertise in **React, Node.js, Express, MongoDB, and MySQL**. Passionate about solving real-world problems with clean, efficient code and always learning and exploring new web technologies while maintaining a team-oriented and collaborative approach.
 
 - 💻 Specializing in **MERN Stack Development**
 - 🔍 Focused on building **scalable web applications**
@@ -34,14 +34,13 @@ Full-Stack Developer with expertise in **React, Node.js, Express, MongoDB, and M
 
 **Database Management**
 - NoSQL: MongoDB, Firebase Firestore
-- SQL: MySQL
 - ORMs: Mongoose
 
 **Tools & Technologies**
 - Version Control: Git, GitHub
-- Development: VS Code, Postman
+- Development: VS Code, Kiro, Postman
 - Authentication: Firebase Auth
-- Deployment: Vercel, Netlify
+- Deployment: Vercel, Netlify, Render
 
 ---
 
@@ -50,7 +49,7 @@ Full-Stack Developer with expertise in **React, Node.js, Express, MongoDB, and M
 ### [AI Dream Visualizer](https://github.com/anzirish/AI-Dream-Visualizzer)
 Transforms user-input dreams into AI-generated stories and images using OpenRouter.ai API and Stable Diffusion.
 
-**Tech Stack:** React, TypeScript, Firebase (Auth & Firestore), Tailwind CSS, OpenRouter.ai API, Stable Diffusion  
+**Tech Stack:** React, Node.js, TypeScript, Express, Mongodb, Tailwind CSS, OpenRouter.ai API, Stable Diffusion  
 **Key Features:**
 - AI-powered story generation from dream descriptions
 - Image generation using Stable Diffusion
